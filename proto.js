@@ -6,8 +6,8 @@
 // console.log(Animal);
 // console.log(Animal.prototype);
 
-// adding meathod called speak to Animals prototype object
-// Animal.prototype.speak = function() {
+// // adding meathod called speak to Animals prototype object
+// Animal.prototype.speak = function () {
 //   return `Hi my name is ${this.name}`
 // }
 
